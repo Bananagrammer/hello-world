@@ -1,5 +1,8 @@
 # hello-world
-My very first github repo
+This is my very first Github repo <br>
+--------------------
+Testing out what happens with deletions and <br>
+ how line breaks work <br>
 *This is what happens when you use one star*
 # This is one hash H1
 ## This is two hashes H2
